@@ -1,0 +1,27 @@
+<gamesList>
+	<game section="games">
+		<name>Space Explorer VR</name>
+		<image>images/spaceExplorer.png</image>
+		<link>https://play.google.com/store/apps/details?id=com.chaosshark.sevr</link>
+	</game>
+	<game section="experiments">
+		<name>Shattered Soul</name>
+		<image>images/shatteredsoul.jpg</image>
+		<link>http://gamejolt.com/games/shattered-soul/36800</link>
+	</game>
+	<game section="games">
+		<name>Reality Malfunction</name>
+		<image>images/realitymalfunction.jpg</image>
+		<link>http://gamejolt.com/games/reality-malfuction/28904</link>
+	</game>
+	<game section="experiments">
+		<name>Surge</name>
+		<image>images/surge.jpg</image>
+		<link>http://gamejolt.com/games/surge/32659</link>
+	</game>
+	<game section="games">
+		<name>1024 Dread</name>
+		<image>images/1024dread.jpg</image>
+		<link>http://gamejolt.com/games/1024-dread/27412</link>
+	</game>
+</gamesList>

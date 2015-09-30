@@ -1,0 +1,113 @@
+header nav{
+	font-size: 12px;
+}
+header h1{
+	color:#282828;
+	font-family: arial;
+	margin:0;
+}
+
+body {
+font-family: arial;
+margin:0;
+}
+.intro{
+text-align: center;
+color:#505050;
+padding-left: 50px;
+padding-right: 50px;
+font-size: 12px;
+}
+.content{
+text-align: center;
+padding-top: 30px;
+padding-left: 10%;
+padding-right: 10%;
+}
+.content p{
+padding: 30px 5% 30px 5%;
+}
+
+header{
+	text-align: center;
+}
+
+.gamesgallery{
+	padding-top: 60px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.gamesgallery header{
+	padding-bottom: 60px;
+}
+
+
+.game img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0px;
+    margin-top:0px;
+}
+
+.artwork .thumbnail, .game .thumbnail{
+    border: 0 none;
+    box-shadow: none;
+}
+
+.artwork img, .game img{
+	object-fit: center;
+	width: 100%;
+    border: 0 none;
+    border-radius: 0px;
+    box-shadow: none;
+    padding: 0px;
+}
+
+.artwork .col-md-4, .game .col-md-4{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.artwork p, .game p{
+	background-color: #385367;
+	color:white;
+	padding: 10px 10px 10px 10px;
+	margin:0px;
+}
+
+.artwork table, .game table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jumboart{
+	background-color: #465762;
+}
+
+.jumboart img{
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 800px;
+	width = auto;
+}
+
+.directory ul {
+text-align: center;
+margin:0;
+padding-left: 0px;
+padding-top: 20px;
+}
+
+.directory ul li{
+background-color: #505050;
+display: inline-block;
+margin:0;
+padding-top: 30px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 30px;
+color: white;
+}
+
